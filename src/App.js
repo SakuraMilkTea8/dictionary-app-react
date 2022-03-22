@@ -9,21 +9,21 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer>
-          This app was coded by{" "}
-          <a href="https://shr.link/3t82s" target="_blank" rel="noreferrer">
-            Ellie
-          </a>{" "}
-          , and is{" "}
-          <a
-            href="https://github.com/SakuraMilkTea8/Weather-App-React"
-            target="_blank"
-            rel="noreferrer"
-          >
-            open-source.
-          </a>
-        </footer>
       </div>
+      <footer>
+        This app was coded by{" "}
+        <a href="https://shr.link/3t82s" target="_blank" rel="noreferrer">
+          Ellie
+        </a>{" "}
+        , and is{" "}
+        <a
+          href="https://github.com/SakuraMilkTea8/Weather-App-React"
+          target="_blank"
+          rel="noreferrer"
+        >
+          open-source.
+        </a>
+      </footer>
     </div>
   );
 }
