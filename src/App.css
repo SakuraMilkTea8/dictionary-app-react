@@ -12,6 +12,16 @@
   outline: 2px solid rgba(0, 0, 0, 0.3);
   border-radius: 4px;
   padding: 10px 10px 10px 10px;
+  background-color: #f9f8fe;
+}
+
+.App-header {
+  font-size: 50px;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+a {
+  color: #9670f4;
 }
 
 footer {
